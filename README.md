@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardo-de-oliveira-santos&label=Profile%20views&color=0e75b6&style=flat" alt="eduardo-de-oliveira-santos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardo-de-oliveira-santos" alt="eduardo-de-oliveira-santos" /></a> </p>
-
 - 🔭 I’m currently working on [51LV3R GRPGS Helper](https://github.com/Eduardo-de-Oliveira-Santos/51LV3R-GRPGS-Helper)
 
 - 🌱 I’m currently learning **Godot, Pixel art, 8 bits music**
@@ -12,6 +10,15 @@
 - 🤝 I’m looking for help with [51LV3R GRPGS Helper](https://github.com/Eduardo-de-Oliveira-Santos/51LV3R-GRPGS-Helper)
 
 - 💬 Ask me about **Godot, GdScript**
+
+- 💘 My favorite technologies
+ 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" width="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" width="32"/> 
+
+
+
+
+
 
 - 📫 How to reach me **Eduardooliveira.santos@protonmail.com**
 
@@ -26,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardo-de-oliveira-santos&show_icons=true&locale=en&layout=compact" alt="eduardo-de-oliveira-santos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eduardo-de-oliveira-santos&show_icons=true&locale=en" alt="eduardo-de-oliveira-santos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardo-de-oliveira-santos&" alt="eduardo-de-oliveira-santos" /></p>
